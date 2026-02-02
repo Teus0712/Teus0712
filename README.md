@@ -1,20 +1,56 @@
 # Olá, eu sou o Matheus Vieira 👋
 
-### 🚀 Estudante de Cibersegurança | Desenvolvedor Java Back-End
+Sou estudante de **Cibersegurança (3º semestre)** e estou em formação em **Desenvolvimento Java Back-End**, com interesse em **Segurança de Aplicações (AppSec / DevSec)**.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Meu objetivo é iniciar a carreira em ambientes onde eu possa **desenvolver aplicações seguras**, aprendendo na prática sobre boas práticas de código, arquitetura e proteção de sistemas.
 
 ---
 
-### 🛡️ Sobre Mim
-- 🎓 Cursando **Cibersegurança** (3º Semestre).
-- ☕ Focado em **Java Back-End** e boas práticas de POO.
-- 🔐 Interessado em Pentest e Proteção de Dados.
+## 🎯 Área de Atuação
 
+- Desenvolvimento **Java Back-End**
+- Fundamentos de **Segurança de Aplicações**
+- Boas práticas de **Programação Orientada a Objetos**
+- Interesse em **AppSec / DevSec** em contexto real de projetos
 
-### 📫 Contato:
-[LinkedIn](www.linkedin.com/in/matheus-vieira-cyber) | [E-mail](matheussilvavieira07@gmail.com
-)
+---
+
+## 🛠️ Tecnologias que estou estudando e praticando
+
+- **Java**
+- **MySQL**
+- **Git & GitHub**
+- **Visual Studio Code**
+- Conceitos de **POO**
+- Fundamentos de **Segurança de Aplicações**
+  - Validação de entradas
+  - Controle de acesso
+  - Boas práticas contra falhas comuns (ex: injeção, exposição de dados)
+
+---
+
+## 📂 Tipos de projetos que pretendo desenvolver
+
+- APIs simples em **Java**
+- Sistemas CRUD com banco de dados
+- Projetos focados em:
+  - Estrutura de código
+  - Organização e legibilidade
+  - Aplicação de boas práticas de segurança
+- Estudos práticos de vulnerabilidades comuns e como evitá-las
+
+---
+
+## 📚 Mentalidade e compromisso
+
+- Estou em **início de carreira**, aberto a aprender e evoluir continuamente
+- Valorizo código claro, responsabilidade e boas práticas
+- Busco oportunidades de **estágio ou júnior**, com aprendizado prático e acompanhamento técnico
+- Tenho interesse real em entender **como e por que** as coisas funcionam, não apenas fazer funcionar
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (www.linkedin.com/in/matheus-vieira-cyber)
+- E-mail: (matheussilvavieira07@gmail.com)
