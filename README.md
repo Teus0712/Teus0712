@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Matheus Vieira 👋
 
-<!--
-**Teus0712/Teus0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Estudante de Cibersegurança | Desenvolvedor Java Back-End
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛡️ Sobre Mim
+- 🎓 Cursando **Cibersegurança** (3º Semestre).
+- ☕ Focado em **Java Back-End** e boas práticas de POO.
+- 🔐 Interessado em Pentest e Proteção de Dados.
+
+
+### 📫 Contato:
+[LinkedIn](www.linkedin.com/in/matheus-vieira-cyber) | [E-mail](matheussilvavieira07@gmail.com
+)
