@@ -1,40 +1,47 @@
-## 💻 Matheus Vieira
+# Olá, eu sou o Matheus Vieira! 👋
 
-🎓 **Estudante de Cibersegurança (3º semestre)**  
-☕ **Java Back-End em formação**  
-🔐 Interesse em **Segurança de Aplicações (AppSec / DevSec)**  
+### 🎓 Estudante de Cibersegurança & Desenvolvedor Java Backend em formação
 
-Sou estudante de Cibersegurança em formação em Desenvolvimento Java Back-End, com foco em aprender na prática como desenvolver aplicações bem estruturadas, aplicar boas práticas de programação e incorporar fundamentos de segurança desde o código.  
-Busco oportunidades de **estágio ou júnior**, onde eu possa evoluir tecnicamente, aprender com projetos reais e contribuir com responsabilidade.
+Atualmente curso **Tecnólogo em Cybersecurity (USCS)** e dedico meus estudos ao ecossistema **Java Backend**. Meu objetivo é construir aplicações robustas, escaláveis e, acima de tudo, seguras. Acredito que a segurança não deve ser um "adendo", mas parte integrante do ciclo de desenvolvimento (DevSecOps).
 
 ---
 
-🚀 **Tecnologias em aprendizado e prática**
+### 🚀 O que estou construindo e estudando:
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
-</p>
-
-📌 **O que você vai encontrar aqui no GitHub**
-- Projetos em **Java Back-End**
-- Exercícios focados em **POO e estrutura de código**
-- APIs simples com banco de dados
-- Estudos práticos sobre **boas práticas de segurança em aplicações**
+- **Java & POO:** Dominando os pilares da Orientação a Objetos (Encapsulamento, Herança e Polimorfismo) com foco em código limpo.
+- **Segurança de Aplicação (AppSec):** Estudando como mitigar vulnerabilidades desde a camada de código (Secure Coding).
+- **Banco de Dados:** Modelagem e manipulação de dados com **MySQL**.
+- **Projetos Reais:** Do controle de hardware (RFID) a sistemas de lógica complexa via CLI.
 
 ---
 
-📫 **Entre em contato comigo**
+### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-vieira-cyber" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:matheussilvavieira07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**Backend & Core:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Segurança & Infra:**
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Web Frontend:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 📌 Repositórios em Destaque
+
+1.  **[CineBooking System](https://github.com/SeuUsuario/CineBooking)**: Gestão de reservas utilizando coleções dinâmicas e validação de dados.
+2.  **[Smart Coffee Maker](https://github.com/SeuUsuario/SmartCoffeeMaker)**: Simulação de hardware aplicando Encapsulamento e lógica de estados.
+3.  **[Sistema RFID (TCC)](https://github.com/SeuUsuario/SeuRepositorioTCC)**: Projeto premiado de automação com integração PHP/MySQL.
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vieira-cyber)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheussilvavieira07@gmail.com)
