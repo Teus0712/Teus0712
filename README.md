@@ -1,47 +1,44 @@
 # Olá, eu sou o Matheus Vieira! 👋
 
-### 🎓 Estudante de Cibersegurança & Desenvolvedor Java Backend em formação
+### 🎓 Graduando em Cibersegurança & Desenvolvedor Java Backend em formação
 
-Atualmente curso **Tecnólogo em Cybersecurity (USCS)** e dedico meus estudos ao ecossistema **Java Backend**. Meu objetivo é construir aplicações robustas, escaláveis e, acima de tudo, seguras. Acredito que a segurança não deve ser um "adendo", mas parte integrante do ciclo de desenvolvimento (DevSecOps).
-
----
-
-### 🚀 O que estou construindo e estudando:
-
-- **Java & POO:** Dominando os pilares da Orientação a Objetos (Encapsulamento, Herança e Polimorfismo) com foco em código limpo.
-- **Segurança de Aplicação (AppSec):** Estudando como mitigar vulnerabilidades desde a camada de código (Secure Coding).
-- **Banco de Dados:** Modelagem e manipulação de dados com **MySQL**.
-- **Projetos Reais:** Do controle de hardware (RFID) a sistemas de lógica complexa via CLI.
+Atualmente curso **Tecnólogo em Cybersecurity (USCS)**. Meu foco principal é dominar o ecossistema **Java Backend**, construindo aplicações que unam eficiência lógica e fundamentos de segurança de dados.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ No meu "Kit de Ferramentas":
 
-**Backend & Core:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Segurança & Infra:**
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Web Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend & Dados** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![JDBC](https://img.shields.io/badge/SQL-Persistência-blue?style=flat-square) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 📌 Repositórios em Destaque
+### 🚀 Projetos em Destaque (Java CLI)
 
-1.  **[CineBooking System](https://github.com/SeuUsuario/CineBooking)**: Gestão de reservas utilizando coleções dinâmicas e validação de dados.
-2.  **[Smart Coffee Maker](https://github.com/SeuUsuario/SmartCoffeeMaker)**: Simulação de hardware aplicando Encapsulamento e lógica de estados.
-3.  **[Sistema RFID (TCC)](https://github.com/SeuUsuario/SeuRepositorioTCC)**: Projeto premiado de automação com integração PHP/MySQL.
+Aqui estão os sistemas que desenvolvi para aplicar conceitos de **POO**, **Coleções** e **Lógica de Estados**:
+
+* **[🎬 CineBooking System](https://github.com/Teus0712/CineBooking)**: Sistema de reservas que utiliza `ArrayList` para gerenciar assentos em tempo real e validações de entrada.
+* **[☕ Smart Coffee Maker](https://github.com/Teus0712/SmartCoffeeMaker)**: Simulação de hardware aplicando **Encapsulamento** e regras de negócio para controle de insumos.
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📊 Meu Momento Atual
+
+- 🔭 Trabalhando em: **Aprofundamento em Java Core e Pilares de POO**.
+- 🌱 Aprendendo: **Conexão de Banco de Dados (JDBC) e fundamentos de Secure Coding**.
+- 💬 Pergunte-me sobre: **Por que escolhi unir Cibersegurança com Desenvolvimento**.
+
+---
+
+### 📫 Vamos trocar uma ideia?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vieira-cyber)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheussilvavieira07@gmail.com)
+
+---
+<p align="center">
+  <i>"O código seguro começa com uma lógica bem estruturada."</i>
+</p>
