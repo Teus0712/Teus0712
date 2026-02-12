@@ -1,44 +1,42 @@
 # Olá, eu sou o Matheus Vieira! 👋
 
-### 🎓 Graduando em Cibersegurança & Desenvolvedor Java Backend em formação
+### 🛡️ Graduando em Cibersegurança | Defesa Cibernética & AppSec
 
-Atualmente curso **Tecnólogo em Cybersecurity (USCS)**. Meu foco principal é dominar o ecossistema **Java Backend**, construindo aplicações que unam eficiência lógica e fundamentos de segurança de dados.
+Atualmente cursando **Tecnólogo em Cibersegurança (USCS)**. Meu foco principal é unir a lógica do desenvolvimento **Java Backend** com práticas de **Blue Team**, garantindo que a segurança comece na estrutura do código.
 
 ---
 
-### 🛠️ No meu "Kit de Ferramentas":
+### 🚀 No meu "Arsenal Técnico":
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend & Dados** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![JDBC](https://img.shields.io/badge/SQL-Persistência-blue?style=flat-square) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Defesa e Segurança** | Fundamentos de Redes, TCP/IP, Segurança de Dados, OWASP Top 10 |
+| **Linguagens** | `Java` (Core/POO), `SQL`, `Python` (em aprendizado para automação) |
+| **Backend e Dados** | `MySQL`, `JDBC`, Persistência de Dados |
+| **Ferramentas** | `Git`, `GitHub`, `Linux` (Terminal), `Visual Studio Code` |
 
 ---
 
-### 🚀 Projetos em Destaque (Java CLI)
+### 📂 Projetos em Destaque
 
-Aqui estão os sistemas que desenvolvi para aplicar conceitos de **POO**, **Coleções** e **Lógica de Estados**:
+#### ☕ Desenvolvimento Seguro (Java)
+* [Sistema CineBooking](link): Gerenciamento de assentos com validações de entrada e tratamento de exceções.
+* [Smart Coffee Maker](link): Aplicação de encapsulamento e regras de negócio para controle de integridade.
 
-* **[🎬 CineBooking System](https://github.com/Teus0712/CineBooking)**: Sistema de reservas que utiliza `ArrayList` para gerenciar assentos em tempo real e validações de entrada.
-* **[☕ Smart Coffee Maker](https://github.com/Teus0712/SmartCoffeeMaker)**: Simulação de hardware aplicando **Encapsulamento** e regras de negócio para controle de insumos.
+#### 🛡️ Cybersecurity & Infra (Em Construção)
+* *Em breve: Scripts de automação em Python para análise de logs e auditoria de redes.*
 
 ---
 
 ### 📊 Meu Momento Atual
-
-- 🔭 Trabalhando em: **Aprofundamento em Java Core e Pilares de POO**.
-- 🌱 Aprendendo: **Conexão de Banco de Dados (JDBC) e fundamentos de Secure Coding**.
-- 💬 Pergunte-me sobre: **Por que escolhi unir Cibersegurança com Desenvolvimento**.
+* 🔭 **Estudando:** Resposta a Incidentes e Monitoramento de Redes.
+* 🌱 **Aprendendo:** Automação de segurança com Python e exploração de vulnerabilidades (AppSec).
+* 💬 **Pergunte-me sobre:** Por que decidi levar a visão de desenvolvedor para a área de Defesa Cibernética.
 
 ---
 
 ### 📫 Vamos trocar uma ideia?
+<a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:matheussilvavieira07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vieira-cyber)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheussilvavieira07@gmail.com)
-
----
-<p align="center">
-  <i>"O código seguro começa com uma lógica bem estruturada."</i>
-</p>
+*"Segurança não é um produto, é um processo construído com lógica e atenção aos detalhes."*
