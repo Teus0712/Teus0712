@@ -58,7 +58,7 @@ Estudante do 4º semestre de Cibersegurança na **USCS**, com direcionamento par
 ### 🏆 Conquistas
 
 <div align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=Teus0712&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
+<img src="github-profile-trophy-liard-delta.vercel.app" />
 </div>
 
 ### 📁 Projetos em destaque
