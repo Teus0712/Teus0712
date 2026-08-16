@@ -47,7 +47,7 @@ Estudante do 4º semestre de Cibersegurança na **USCS**, com direcionamento par
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Teus0712&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU-USUARIO-NOVO&theme=chartreuse-dark&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Teus0712&theme=chartreuse-dark&hide_border=true" />
 
 <br>
 
@@ -60,7 +60,7 @@ Estudante do 4º semestre de Cibersegurança na **USCS**, com direcionamento par
 ### 🏆 Conquistas
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO-NOVO&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Teus0712&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
