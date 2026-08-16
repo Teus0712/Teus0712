@@ -1,33 +1,67 @@
-<h1 align="center">Olá, eu sou o Matheus Vieira 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Estudante+de+Cybersecurity+%7C+USCS;Suporte+de+TI+N1%2FN2;Foco+em+SOC+%26+Blue+Team;Redes+%7C+Active+Directory+%7C+Threat+Intel" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Vieira+%F0%9F%91%8B;Estudante+de+Cybersecurity+%7C+USCS;Foco+em+SOC+%26+Blue+Team;Suporte+de+TI+N1%2FN2" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Foco-Blue%20Team-00FF9C?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Estudante-Cybersecurity-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/USCS-Tecnólogo-red?style=for-the-badge" />
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/Foco-Blue%20Team-00FF9C?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/SOC-Estudante-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/USCS-Tecn%C3%B3logo-red?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-NOVO&style=for-the-badge&color=00FF9C&label=Visualiza%C3%A7%C3%B5es" />
+
+</div>
 
 ---
 
 ### 🛡️ Sobre mim
 
-Estudante do 4º semestre de Cibersegurança na **USCS**, com direcionamento para **Defesa Cibernética (Blue Team)** e **Operações de Segurança (SOC)**. Base técnica em Redes de Computadores, com domínio prático do Modelo OSI, TCP/IP e fundamentos de roteamento e switching. Atuo hoje em Suporte de TI (N1/N2), consolidando troubleshooting e infraestrutura como fundação para a área de segurança.
+Estudante do 4º semestre de Cibersegurança na **USCS**, com direcionamento para **Defesa Cibernética (Blue Team)** e **Operações de Segurança (SOC)**. Base sólida em Redes de Computadores — Modelo OSI, TCP/IP, roteamento e switching — construída hoje na prática como Suporte de TI (N1/N2), consolidando troubleshooting e infraestrutura como fundação para a área de segurança.
 
 ---
 
 ### 🧰 Arsenal Técnico
 
-| Categoria | Ferramentas / Conhecimentos |
-|---|---|
-| **Redes** | ![Cisco](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) TCP/IP · Modelo OSI · Roteamento e Switching · DNS · DHCP |
-| **Segurança de Redes** | Port Security (Err-Disable) · Configuração de roteadores · Wireshark |
-| **SOC & Threat Intel** | MITRE ATT&CK · Cyber Kill Chain · Fundamentos de SIEM · Triagem de alertas |
-| **Administração de Ambiente** | Active Directory · Antivírus corporativo (Bitdefender) · Backup e recuperação (AOMEI, Strelec WinPE) |
-| **Sistemas** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white) Kali Linux |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) VS Code |
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/-Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bitdefender-ED1C24?style=for-the-badge&logo=bitdefender&logoColor=white" />
+<img src="https://img.shields.io/badge/-TCP%2FIP-333333?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-CC0000?style=for-the-badge&logo=mitre&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-NOVO&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU-USUARIO-NOVO&theme=chartreuse-dark&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-NOVO&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C" />
+
+</div>
+
+---
+
+### 🏆 Conquistas
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO-NOVO&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
+</div>
 
 ---
 
@@ -40,21 +74,25 @@ Estudante do 4º semestre de Cibersegurança na **USCS**, com direcionamento par
 - Estudo de TTPs e vetores de ataque com base no MITRE ATT&CK.
 
 **🎓 TCC Premiado — Sistema de Pagamentos RFID**
-- Projeto acadêmico com hardware RFID integrado a controle seguro de saldo e transações. *(premiado com certificado de inovação)*
+- Projeto acadêmico com hardware RFID integrado a controle seguro de saldo e transações *(premiado com certificado de inovação)*.
 
 ---
 
-### 📊 Momento atual
+### 🎯 Momento atual
 
 - 🧠 **Estudando:** Resposta a Incidentes e Monitoramento de Redes
-- 🎯 **Praticando:** Trilha SOC Level 1 (TryHackMe)
+- 🥷 **Praticando:** Trilha SOC Level 1 (TryHackMe)
 - 💬 **Me pergunte sobre:** Redes, fundamentos de SOC e o caminho de suporte técnico até Blue Team
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-vieira-cyber"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:matheussilvavieira07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<p align="center"><i>"Defesa começa em entender a rede antes de entender o ataque."</i></p>
+<a href="https://www.linkedin.com/in/matheus-vieira-cyber"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:matheussilvavieira07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br><br>
+
+<i>"Defesa começa em entender a rede antes de entender o ataque."</i>
+
+</div>
