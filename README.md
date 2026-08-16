@@ -55,12 +55,6 @@ Estudante do 4º semestre de Cibersegurança na **USCS**, com direcionamento par
 </div>
 ---
 
-### 🏆 Conquistas
-
-<div align="center">
-<img src="github-profile-trophy-liard-delta.vercel.app" />
-</div>
-
 ### 📁 Projetos em destaque
 
 **🔵 Laboratório Prático de Cibersegurança (Home Lab)**
