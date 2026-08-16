@@ -46,14 +46,13 @@ Estudante do 4º semestre de Cibersegurança na **USCS**, com direcionamento par
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Teus0712&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=Teus0712&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
 
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teus0712&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C" />
 
 </div>
-
 ---
 
 ### 🏆 Conquistas
